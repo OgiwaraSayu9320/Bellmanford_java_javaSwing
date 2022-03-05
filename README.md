@@ -1,1 +1,4 @@
-# Ni-n-lu-n-ng-nh---Thu-t-to-n-BellmanFord---Java---JavaSwing
+#Niên luận ngành
+- Tìm đường đi ngắn nhất trên đồ thị.
+- Thêm,sửa,xóa đồ thị.
+- Hiển thị đường đi ngắn nhất
